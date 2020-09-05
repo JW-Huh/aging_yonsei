@@ -10,7 +10,6 @@ here we used publicaly available dataset from QIITA database including American 
 
 
 2. Contents
-
-2-1. R scripts used for input data preparation and visualization
-2-2. LEfSe input files and a summarized result file (lefse_results_modified_name.csv)
-2-3. Modified metadata and microbial abundance files 
+- R scripts used for input data preparation and visualization.
+- LEfSe input files and a summarized result file (lefse_results_modified_name.csv).
+- Modified metadata and microbial abundance files.
